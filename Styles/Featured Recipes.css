@@ -5,7 +5,7 @@
 
 /* nav menu */
 nav{
-  background-color: rgb(90, 88, 99);
+  background-color: #f38c10;
   color: white;
   padding: 10px;
   text-align: center;
@@ -38,7 +38,7 @@ nav{
 
 /* Styling the footer */
 footer {
-    background-color: #A3A5A4;
+    background-color: #FFD84B;
     padding: 10px;
     text-align: center;
     color: white;
