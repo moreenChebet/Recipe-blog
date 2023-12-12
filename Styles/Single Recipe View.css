@@ -1,6 +1,7 @@
 *{
   margin: 0%;
   padding: 0%;
+  font-family: sans-serif;
 }
 
 /* nav menu */
@@ -29,6 +30,36 @@ text-decoration: none;
 color: white;
 }
 
+.image{
+  margin-top: 3px;
+  margin-left: 200px;
+  align-content: center;
+}
+
+.flex-container{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-bottom: 25px;
+}
+
+.body{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 70px;
+}
+
+.descriptions{
+  margin-left: 40px;
+}
+
+
+.Ingredients{
+  margin-left: 100px;
+  margin-top: 2px;
+}
 
 
 

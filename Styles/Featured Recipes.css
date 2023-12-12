@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    font-family: sans-serif;
 }
 
 /* nav menu */
@@ -29,11 +30,17 @@ nav{
   color: white;
 }
 
-/* .flex-container{
-    display: flex;
-    height: 20%;
-} */
+.flex-container1{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 70px;
+}
 
+.description1{
+  margin-left: 100;
+  margin-top: 2px;
+}
 
 
 /* Styling the footer */
