@@ -30,17 +30,88 @@ nav{
   color: white;
 }
 
+.container1{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
 .flex-container1{
   display: flex;
   height: 60%;
   margin-top: 20px;
-  margin-left: 70px;
+  margin-left: 30px;
 }
 
 .description1{
-  margin-left: 100;
+  margin-left: 30px;
   margin-top: 2px;
 }
+
+.flex-container2{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.container2{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.flex-container3{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.description2{
+  margin-left: 30px;
+  margin-top: 5px;
+}
+
+.flex-container4{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.container3{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-bottom: 50px;
+} 
+
+.flex-container5{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+.description3{
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+
+.flex-container6{
+  display: flex;
+  height: 60%;
+  margin-top: 20px;
+  margin-left: 30px;
+}  
+
+
+
 
 
 /* Styling the footer */
