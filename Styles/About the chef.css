@@ -1,6 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
+    font-family: sans-serif;
 }
 
 /* nav menu */
@@ -30,7 +31,18 @@ nav{
 }
 
 
+.container{
+  display: flex;
+  height: 60%;
+  margin-top: 35px;
+  margin-left: 55px;
+}
 
+.description{
+  margin-left: 45px;
+  margin-top: 30px;
+  font-size: large;
+}
 
 
 /* Styling the footer */
