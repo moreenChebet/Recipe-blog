@@ -1,32 +1,32 @@
-# Recipe-blog
-# Food 52 recipe blog
+# Recipe-blog<br>
+# Food 52 recipe blog<br>
 
-# Project overview
-Food 52 recipe blog is a blog that provides users with information of:
- -Recent featured Recipes.
- -Categories of food available. 
+# Project overview <br>
+Food 52 recipe blog is a blog that provides users with information of:<br>
+ -Recent featured Recipes.<br>
+ -Categories of food available.<br> 
  -Single Recipe View which has detailed information, including ingredients, instructions, 
-  and user comments. 
- -Chef's information and Contact section for anyone in need of our services. 
+  and user comments. <br>
+ -Chef's information and Contact section for anyone in need of our services. <br>
 
 
-# Figma design preview
-Use the link below to view our figma design
+# Figma design preview<br>
+Use the link below to view our figma design<br>
 https://www.figma.com/file/wvndvuLCJg4DIBlQoJGJGC/Recipe-blog?type=design&t=ZMFWph4T8RxfUWDN-6
 
-# Live project link
-Use the link below to view our deployed project
+# Live project link <br>
+Use the link below to view our deployed project <br>
 https://moreenchebet.github.io/Recipe-blog/
 
-# Techologies used
- -HTML
- -CSS
- -Figma
+# Techologies used<br>
+ -HTML<br>
+ -CSS<br>
+ -Figma<br>
 
-# License
-MIT License
+# License<br>
+MIT License<br>
 
-Copyright (c) 2023 Maurine Chebet, Ian Mutugi
+Copyright (c) 2023 Maurine Chebet, Ian Mutugi<br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
